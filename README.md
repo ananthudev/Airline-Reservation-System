@@ -1,2 +1,3 @@
 # Airline-Reservation-System
-A Simple Airline Reservation Web Application created by usinfg PHP, HTML, CSS and Mysql
+A simple Airline Reservation System demo that helps to book tickets for flights.
+Technologies used: HTML, PHP, Javascript, MySQL database.
