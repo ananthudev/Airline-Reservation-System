@@ -1,2 +1,2 @@
 # Airline-Reservation-System
-A Simple Airline Reservation Web Application created by usinfg PHP, HTML, Css and Mysql
+A Simple Airline Reservation Web Application created by usinfg PHP, HTML, CSS and Mysql
